@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "ssundarraj",
-    "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"ssundarraj","repositoryName":"hubpress.io","branch":"gh-pages","cname":"https://ssundarraj.me/hubpress.io"},"site":{"url":"http://https://ssundarraj.me/hubpress.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//ssundarraj.github.io/hubpress.io/themes/Casper"}}
